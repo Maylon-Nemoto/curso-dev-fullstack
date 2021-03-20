@@ -1,0 +1,25 @@
+body {
+    background-color: #d1d1cc;
+}
+
+p {
+    color: #272727;
+}
+.foto-principal {
+    width: 230px;
+    border: 5px solid #FFFFFF; /*Shorthand*/
+    border-radius: 50%;
+    border-style: solid dotted;
+    margin: 30px 35px 30px 30px ;
+    /*
+    margin-top: 30px;
+    margin-bottom: 40px;
+    margin-left: 30px;
+    */
+       
+    
+}
+#life {
+    color: blue;
+    
+}
